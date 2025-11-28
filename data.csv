@@ -1,0 +1,16 @@
+id,name,age,city,email,marks,dept,year
+1,Pavani,21,Vijayawada,pavani@example.com,88,CSE,2
+2,Ravi,22,Guntur,ravi@example.com,76,ECE,3
+3,Sita,20,Vizag,sita@example.com,91,EEE,2
+4,Kiran,23,Hyderabad,kiran@example.com,67,IT,4
+5,Anusha,19,Ongole,anusha@example.com,83,CSE,1
+6,Manoj,24,Tirupati,manoj@example.com,79,MECH,4
+7,Divya,21,Kurnool,divya@example.com,92,CSE,3
+8,Chandu,22,Nellore,chandu@example.com,65,ECE,4
+9,Harika,20,Rajahmundry,harika@example.com,95,IT,2
+10,Varun,23,Eluru,varun@example.com,71,EEE,4
+11,Meghana,21,Kadapa,meghana@example.com,89,CSE,3
+12,Karthik,22,Visakhapatnam,karthik@example.com,73,ECE,4
+13,Shruthi,19,Vijayawada,shruthi@example.com,90,CSE,1
+14,Naveen,24,Hyderabad,naveen@example.com,68,MECH,4
+15,Pranavi,20,Guntur,pranavi@example.com,87,IT,2

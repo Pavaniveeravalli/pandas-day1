@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Pavani",
+    "age": 21,
+    "city": "Vijayawada",
+    "email": "pavani@example.com",
+    "marks": 88,
+    "dept": "CSE",
+    "year": 2
+  },
+  {
+    "id": 2,
+    "name": "Ravi",
+    "age": 22,
+    "city": "Guntur",
+    "email": "ravi@example.com",
+    "marks": 76,
+    "dept": "ECE",
+    "year": 3
+  },
+  {
+    "id": 3,
+    "name": "Sita",
+    "age": 20,
+    "city": "Vizag",
+    "email": "sita@example.com",
+    "marks": 91,
+    "dept": "EEE",
+    "year": 2
+  },
+  {
+    "id": 4,
+    "name": "Kiran",
+    "age": 23,
+    "city": "Hyderabad",
+    "email": "kiran@example.com",
+    "marks": 67,
+    "dept": "IT",
+    "year": 4
+  },
+  {
+    "id": 5,
+    "name": "Anusha",
+    "age": 19,
+    "city": "Ongole",
+    "email": "anusha@example.com",
+    "marks": 83,
+    "dept": "CSE",
+    "year": 1
+  },
+  {
+    "id": 6,
+    "name": "Manoj",
+    "age": 24,
+    "city": "Tirupati",
+    "email": "manoj@example.com",
+    "marks": 79,
+    "dept": "MECH",
+    "year": 4
+  },
+  {
+    "id": 7,
+    "name": "Divya",
+    "age": 21,
+    "city": "Kurnool",
+    "email": "divya@example.com",
+    "marks": 92,
+    "dept": "CSE",
+    "year": 3
+  },
+  {
+    "id": 8,
+    "name": "Chandu",
+    "age": 22,
+    "city": "Nellore",
+    "email": "chandu@example.com",
+    "marks": 65,
+    "dept": "ECE",
+    "year": 4
+  },
+  {
+    "id": 9,
+    "name": "Harika",
+    "age": 20,
+    "city": "Rajahmundry",
+    "email": "harika@example.com",
+    "marks": 95,
+    "dept": "IT",
+    "year": 2
+  },
+  {
+    "id": 10,
+    "name": "Varun",
+    "age": 23,
+    "city": "Eluru",
+    "email": "varun@example.com",
+    "marks": 71,
+    "dept": "EEE",
+    "year": 4
+  },
+  {
+    "id": 11,
+    "name": "Meghana",
+    "age": 21,
+    "city": "Kadapa",
+    "email": "meghana@example.com",
+    "marks": 89,
+    "dept": "CSE",
+    "year": 3
+  },
+  {
+    "id": 12,
+    "name": "Karthik",
+    "age": 22,
+    "city": "Visakhapatnam",
+    "email": "karthik@example.com",
+    "marks": 73,
+    "dept": "ECE",
+    "year": 4
+  },
+  {
+    "id": 13,
+    "name": "Shruthi",
+    "age": 19,
+    "city": "Vijayawada",
+    "email": "shruthi@example.com",
+    "marks": 90,
+    "dept": "CSE",
+    "year": 1
+  },
+  {
+    "id": 14,
+    "name": "Naveen",
+    "age": 24,
+    "city": "Hyderabad",
+    "email": "naveen@example.com",
+    "marks": 68,
+    "dept": "MECH",
+    "year": 4
+  },
+  {
+    "id": 15,
+    "name": "Pranavi",
+    "age": 20,
+    "city": "Guntur",
+    "email": "pranavi@example.com",
+    "marks": 87,
+    "dept": "IT",
+    "year": 2
+  }
+]
